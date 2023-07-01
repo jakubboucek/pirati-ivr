@@ -1,0 +1,9 @@
+{
+    "require": {
+        "jakubboucek/odorik-ivr": "^1.0",
+        "nyholm/psr7-server": "^1.0",
+        "nyholm/psr7": "^1.8",
+        "tracy/tracy": "^2.10",
+        "lazzard/psr7-response-sender": "^1.1"
+    }
+}
